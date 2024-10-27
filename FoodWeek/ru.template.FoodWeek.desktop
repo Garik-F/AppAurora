@@ -1,0 +1,13 @@
+[Desktop Entry]
+Type=Application
+X-Nemo-Application-Type=silica-qt5
+Icon=ru.template.FoodWeek
+Exec=/usr/bin/ru.template.FoodWeek
+Name=Template
+Name[ru]=Шаблон
+
+[X-Application]
+Permissions=Sensors;PushNotifications;DeviceInfo;Audio;Documents;Downloads;Internet;Location;Pictures;Videos
+OrganizationName=ru.template
+ApplicationName=FoodWeek
+ExecDBus=/usr/bin/ru.template.FoodWeek
